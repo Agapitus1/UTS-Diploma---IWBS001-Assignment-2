@@ -1,0 +1,29 @@
+#header {
+		text-align: left;
+		padding: 5em 0 0 6cm;
+	}
+
+		#header .avatar 
+		{
+			border-radius: 100%;
+			display: inline-block;
+			margin: 0 2cm 5em 0;
+			padding: 0.5em;
+			border: solid 1px #FFFFFF;
+			background-color: #ffffff25;
+		}
+
+		#header .avatar img 
+		{
+			border-radius: 100%;
+			display: block;
+			width: 10em;
+		}
+
+		#header .name img 
+		{
+			margin: 0 0cm 10em 0cm;
+			display: inline-block;
+			width: 35em;
+		}
+
